@@ -1,0 +1,16 @@
+/* Initials: dsb */
+
+.dsb-main-container {
+  background-color: var(--main-card-background);
+  margin: 2rem;
+  border-radius: 10px;
+  height: 85vh;
+  margin: 1rem 2rem 2rem 100px;
+}
+
+.dsb-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
